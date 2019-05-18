@@ -1,0 +1,14 @@
+.p{
+    fill: red;
+}
+
+body {
+    background: white
+  }
+  svg {width: 100%;text-align: center;}
+  #template {
+    stroke-width: 1px;
+    stroke: white;;
+    fill:red;
+    /*opacity:.4;*/
+  }
